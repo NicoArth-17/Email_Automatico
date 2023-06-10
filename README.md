@@ -12,3 +12,14 @@ Um Resumo é muito simples e direto ao ponto, usado pela equipe de gerência de 
 O Ranking mostra de forma mais nítida quais lojas estão se destacando e quais estão a baixo da média, dessa forma, facilitando enxergar quais lojas estão apresentando os indicadores acima das metas estipuladas.
 
 O Objetivo é conseguir criar um processo da forma mais automática possível para calcular o Resumo de cada loja e enviar um email para o gerente de cada loja com o seu Resumo no corpo do e-mail e também o arquivo completo com os dados da sua respectiva loja em anexo.
+
+
+### O que será automatizado?
+
+- Criação de pasta e arquivo de dados para cada loja
+- Calculo para metas e indicadores
+- Criação do Ranking
+- Criação e envio do email
+
+#### O que é neccesário?
+Foi necessário a utilização de base de dados com as informções de vendas (produto, valor, quantidade vendida, data da venda) e da loja (nome da loja, nome e email do gerente do gerente)
